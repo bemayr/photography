@@ -1,0 +1,66 @@
+{
+  "assetsByChunkName": {
+    "component---src-layouts-index-tsx": [
+      "component---src-layouts-index-tsx-26d0134e9c68f81c2144.js",
+      "component---src-layouts-index-tsx-26d0134e9c68f81c2144.js.map"
+    ],
+    "path---tags": [
+      "path---tags-52e19634f22a29b8fbd1.js",
+      "path---tags-52e19634f22a29b8fbd1.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-pages-tags-tsx": [
+      "component---src-pages-tags-tsx-71482a6827e1b83d19bf.js",
+      "component---src-pages-tags-tsx-71482a6827e1b83d19bf.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---another-page": [
+      "path---another-page-a0e39f21c11f6a62c5ab.js",
+      "path---another-page-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "commons": [
+      "commons-d2fd429cfb57e9b87449.js",
+      "commons-d2fd429cfb57e9b87449.js.map"
+    ],
+    "component---src-pages-404-tsx": [
+      "component---src-pages-404-tsx-c3f1179ef31e3033d235.js",
+      "component---src-pages-404-tsx-c3f1179ef31e3033d235.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-index-tsx": [
+      "component---src-pages-index-tsx-e81d3f69221e115b7500.js",
+      "component---src-pages-index-tsx-e81d3f69221e115b7500.js.map"
+    ],
+    "app": [
+      "app-30b2396e6d16239f031e.js",
+      "build-js-styles.css",
+      "app-30b2396e6d16239f031e.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-another-page-tsx": [
+      "component---src-pages-another-page-tsx-d86c86f235df2634125c.js",
+      "component---src-pages-another-page-tsx-d86c86f235df2634125c.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}

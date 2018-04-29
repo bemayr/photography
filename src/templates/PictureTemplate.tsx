@@ -40,7 +40,7 @@ export default PictureTemplate
 
 // FIXME: allMarkdownRemark() {} is being ignored
 export const pageQuery = graphql`
-  query TagPage($tag: String) {
+  query PicturePage($tag: String) {
     site {
       siteMetadata {
         title

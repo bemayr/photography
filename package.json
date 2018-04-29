@@ -65,7 +65,7 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write 'src/**/*.{ts,tsx}' '*.js'",
-    "prebuild": "yarn lint && yarn test",
+    "prebuild": "yarn lint",
     "precommit": "lint-staged",
     "lint": "tslint 'src/**/*.{ts,tsx}'",
     "test": "jest"

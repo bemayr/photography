@@ -30,3 +30,13 @@ declare type AllMarkdownRemark = {
   readonly totalCount: number
   readonly edges: MarkdownRemarkEdges
 }
+
+declare module '*.jpg' {
+  const value: any
+  export = value
+}
+
+declare module '*.png' {
+  const value: any
+  export = value
+}
